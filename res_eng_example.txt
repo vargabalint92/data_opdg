@@ -1,0 +1,16 @@
+---- Fmincon ----
+options = optimoptions(@fmincon,'Display','off','MaxIterations',50,'PlotFcn','optimplotx','OptimalityTolerance',1e-5,'StepTolerance',1e-5);
+FMIN: SNR=    10 error=e_x: 0.60361 and time 31.284150 
+FMIN: SNR=    20 error=e_x: 0.26523 and time 37.569272 
+FMIN: SNR=    30 error=e_x: 0.10403 and time 40.210144 
+FMIN: SNR=    40 error=e_x: 0.047413 and time 33.263000 
+FMIN: SNR=     0 error=e_x: 0.025576 and time 33.496772 
+
+
+---- LMI ----
+LMI: SNR=    10 error=0.3142 and time 2.399074 
+LMI: SNR=    20 error=0.1066 and time 1.791403 
+LMI: SNR=    30 error=0.0291 and time 2.451040 
+LMI: SNR=    40 error=0.0274 and time 3.245978 
+LMI: SNR=     0 error=0.0018 and time 3.601670 
+

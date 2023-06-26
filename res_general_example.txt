@@ -1,0 +1,23 @@
+    WTDO
+     e_x 0.0769 and time 28.338661 
+     e_x 0.0769 and time 28.175143 
+     e_x 0.0769 and time 28.271583
+    TFO
+     e_x 0.0187 and time 0.156382 
+     e_x 0.0187 and time 0.146977 
+     e_x 0.0187 and time 0.139963 
+
+IDO
+Elapsed time is 212.345662 seconds.
+For the paper:
+e_x: 0.076485
+
+>> main_general_example_withfmincon
+Elapsed time is 207.706821 seconds.
+For the paper:
+e_x: 0.076485
+
+>> main_general_example_withfmincon
+Elapsed time is 215.151090 seconds.
+For the paper:
+e_x: 0.076485
